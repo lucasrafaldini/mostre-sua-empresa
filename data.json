@@ -1511,12 +1511,26 @@
     "url": "https://alltopstartups.com/submit-startup/",
     "desc": ""
   },
+    {
+    "region": "Internacional",
+    "category": "Internacional - Websites & Diretórios",
+    "name": "AlternativeTo",
+    "url": "https://alternativeto.net/",
+    "desc": "Plataforma para descobrir alternativas a softwares, aplicativos e serviços existentes."
+  },
+    {
+    "region": "Internacional",
+    "category": "Internacional - Websites & Diretórios",
+    "name": "DevHunt",
+    "url": "https://devhunt.org/",
+    "desc": "Plataforma colaborativa para lançamento diário de ferramentas para desenvolvedores."
+  },
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "Alternative To",
-    "url": "https://alternativeto.net/",
-    "desc": ""
+    "name": "MicroLaunch",
+    "url": "https://microlaunch.net/",
+    "desc": "Plataforma para lançamento de projetos independentes e micro-startups."
   },
   {
     "region": "Internacional",

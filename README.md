@@ -356,7 +356,9 @@ Diretórios globais e plataformas ativas de lançamento em inglês.
 * <a href="https://www.allmyfaves.com/" target="_blank" rel="noopener noreferrer"><strong>All My Faves</strong></a>
 * <a href="https://betalist.com/" target="_blank" rel="noopener noreferrer"><strong>BetaList</strong></a> - A principal plataforma mundial para submissão e descoberta de novas startups em fase inicial e beta.
 * <a href="https://alltopstartups.com/submit-startup/" target="_blank" rel="noopener noreferrer"><strong>All Top Startups</strong></a>
-* <a href="https://alternativeto.net/" target="_blank" rel="noopener noreferrer"><strong>Alternative To</strong></a>
+* <a href="https://alternativeto.net/" target="_blank" rel="noopener noreferrer"><strong>AlternativeTo</strong></a> - Plataforma para descobrir alternativas a softwares, aplicativos e serviços existentes.
+* <a href="https://devhunt.org/" target="_blank" rel="noopener noreferrer"><strong>DevHunt</strong></a> - Plataforma colaborativa para lançamento diário de ferramentas para desenvolvedores.
+* <a href="https://microlaunch.net/" target="_blank" rel="noopener noreferrer"><strong>MicroLaunch</strong></a> - Plataforma para lançamento de projetos independentes e micro-startups.
 * <a href="https://alternative.me/" target="_blank" rel="noopener noreferrer"><strong>Alternative.me</strong></a>
 * <a href="https://angel.co/" target="_blank" rel="noopener noreferrer"><strong>AngelList</strong></a>
 * <a href="https://apprater.net/add/" target="_blank" rel="noopener noreferrer"><strong>App Rater</strong></a>
