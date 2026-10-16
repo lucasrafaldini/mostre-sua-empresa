@@ -1815,6 +1815,13 @@
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
+    "name": "Public Prompts",
+    "url": "https://www.publicprompts.art/",
+    "desc": "Diretório de ferramentas de IA com navegação gratuita e submissão paga, sujeita a análise editorial."
+  },
+  {
+    "region": "Internacional",
+    "category": "Internacional - Websites & Diretórios",
     "name": "SaaSHub",
     "url": "https://www.saashub.com/",
     "desc": ""

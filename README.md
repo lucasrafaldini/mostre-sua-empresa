@@ -399,6 +399,7 @@ Diretórios globais e plataformas ativas de lançamento em inglês.
 * <a href="https://postmake.io/submit" target="_blank" rel="noopener noreferrer"><strong>Postmake</strong></a>
 * <a href="https://www.preapps.com/" target="_blank" rel="noopener noreferrer"><strong>PreApps</strong></a>
 * <a href="https://www.producthunt.com/" target="_blank" rel="noopener noreferrer"><strong>Product Hunt</strong></a>
+* <a href="https://www.publicprompts.art/" target="_blank" rel="noopener noreferrer"><strong>Public Prompts</strong></a> - Diretório de ferramentas de IA com navegação gratuita e submissão paga, sujeita a análise editorial.
 * <a href="https://www.saashub.com/" target="_blank" rel="noopener noreferrer"><strong>SaaSHub</strong></a>
 * <a href="https://www.saashub.com/" target="_blank" rel="noopener noreferrer"><strong>SaaSHub</strong></a> - Plataforma independente para descoberta e avaliação comparativa de soluções SaaS.
 * <a href="https://saijogeorge.com/best-marketing-tools/" target="_blank" rel="noopener noreferrer"><strong>Saijo's Tools List</strong></a>
