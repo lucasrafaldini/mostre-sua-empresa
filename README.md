@@ -433,6 +433,7 @@ Diretórios globais e plataformas ativas de lançamento em inglês.
 * <a href="https://webapprater.com/submit-your-web-application-for-review-html" target="_blank" rel="noopener noreferrer"><strong>Web App Rater</strong></a>
 * <a href="https://www.indiehackers.com/products" target="_blank" rel="noopener noreferrer"><strong>Indie Hackers Products</strong></a> - Diretório oficial do Indie Hackers para cadastrar produtos e documentar métricas em público.
 * <a href="https://news.ycombinator.com/" target="_blank" rel="noopener noreferrer"><strong>Ycombinator</strong></a>
+* <a href="https://mediapronet.com/" target="_blank" rel="noopener noreferrer"><strong>MEDIAPRONET</strong></a> - Diretório curado onde fundadores cadastram startups, ferramentas SaaS e produtos indie recém-lançados, com uma página para cada produto.
 
 ---
 

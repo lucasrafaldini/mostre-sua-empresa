@@ -2049,5 +2049,12 @@
     "name": "Ycombinator",
     "url": "https://news.ycombinator.com/",
     "desc": ""
+  },
+  {
+    "region": "Internacional",
+    "category": "Internacional - Websites & Diretórios",
+    "name": "MEDIAPRONET",
+    "url": "https://mediapronet.com/",
+    "desc": "Diretório curado onde fundadores cadastram startups, ferramentas SaaS e produtos indie recém-lançados, com uma página para cada produto."
   }
 ]
